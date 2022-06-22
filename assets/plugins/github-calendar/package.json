@@ -35,7 +35,7 @@
     "add-subtract-date": "^1.0.5",
     "elly": "^1.0.0",
     "formatoid": "^1.0.3",
-    "github-calendar-parser": "^1.1.3"
+    "github-calendar-parser": "^1.2.1"
   },
   "blah": {
     "example": [
